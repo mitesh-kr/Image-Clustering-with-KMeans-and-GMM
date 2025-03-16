@@ -38,7 +38,18 @@ pandas
 matplotlib
 
 scikit-learn
+
+## Clone the Repository and Install Dependencies
+
 ```bash
+# Clone the repository
+git clone https://github.com/mitesh-kr/Image-Clustering-with-KMeans-and-GMM.git
+
+# Navigate to the project directory
+cd Image-Clustering-with-KMeans-and-GMM
+
+# Install dependencies
 pip install -r requirements.txt
+
 
 
