@@ -38,4 +38,6 @@ pandas
 matplotlib
 
 scikit-learn
+```bash
+pip install numpy pandas matplotlib scikit-learn
 
