@@ -39,5 +39,6 @@ matplotlib
 
 scikit-learn
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install -r requirements.txt
+
 
